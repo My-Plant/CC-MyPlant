@@ -8,8 +8,6 @@ Private endpoint designed using Flask framework and firebase as authentication f
 
 - Flask
 - Firebase
-- Tensorflow
-- dotenv
 
 #### Cloud Stack
 
