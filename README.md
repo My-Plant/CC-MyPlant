@@ -16,9 +16,8 @@ Private endpoint designed using Flask framework and firebase as authentication f
 - App Engine
 - Cloud Storage
 
-## Install Flask
-
-    python -m pip install flask
+#### Cloud Architecture
+<img src="Images/Cloud_Architecture.jpg">
 
 ## Run the app
 1. `git clone https://github.com/henryand1/MyPlant.git`
